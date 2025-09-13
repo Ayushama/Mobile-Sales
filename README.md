@@ -46,4 +46,4 @@ The dataset includes transaction-level details such as customer demographics, pr
 - Delhi, Mumbai, and Bangalore are major sales hubs
 
 ## 👤 Author
-**Ayush Aman(https://www.linkedin.com/in/ayush-aman-039817161/)**
+**[Ayush Aman](https://www.linkedin.com/in/ayush-aman-039817161/)**
