@@ -1,4 +1,4 @@
-## 🚀 Project Overview
+## Project Overview
 This project demonstrates how to transform raw sales data into meaningful business insights using **Power BI**.  
 The dataset includes transaction-level details such as customer demographics, product brands, payment methods, ratings, and purchase locations.
 
@@ -33,7 +33,7 @@ The dataset includes transaction-level details such as customer demographics, pr
 ## 📂 Files
 - `Data.xlsx` → Dataset
 - `Mobile Sales Dashboard.pbix` → Power BI Dashboard
-- `README.md` → Documentation
+- `README.md` → Documentation 
 - `dashboard-preview.png` → Dashboard Preview  
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/47a008d3-ed0c-4c0d-9669-1070c3a3b336)
