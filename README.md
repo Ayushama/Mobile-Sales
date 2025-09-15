@@ -11,7 +11,7 @@ The dataset includes transaction-level details such as customer demographics, pr
   - Units Sold, Price Per Unit
   - City, Payment Method
   - Customer Age, Ratings
-
+ 
 ## 🛠 Data Transformation
 - Created calculated column for `Sales = Units Sold * Price Per Unit`
 - Added helper columns (`WeekdayNumber`, `MonthNumber`, `MonthName`) for sorting visuals
