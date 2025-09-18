@@ -18,7 +18,7 @@ The dataset includes transaction-level details such as customer demographics, pr
 - Created DAX measures for KPIs:
   - `Total Sales`
   - `Total Quantity`
-  - `Transaction Count`
+  - `Transaction Count` 
   - `Avg Sales per Transaction`
 
 ## 🚀 Features
